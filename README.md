@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @voidvvv
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I'm working at xiecheng now.
+I like programming
+I'm the best
+
+algrithm data struct  program language
+
 ```java
   public static void main(String[] args){
     System.out.print("Hello Wordl,I'm zkj");
