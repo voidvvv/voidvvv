@@ -8,7 +8,7 @@ I'm the best
 
 algrithm  
 
-data struct  
+data structure  
 program language
 
 ```java
