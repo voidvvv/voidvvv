@@ -9,7 +9,7 @@ I'm familiar with algrithm and data structure .
 As a Chinese,my English is not bad!
 
  
-program language
+如同天上降魔主，真是人间太岁神！
 
 ```java
   public static void main(String[] args){
