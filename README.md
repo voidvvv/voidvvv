@@ -1,14 +1,14 @@
 - 👋 Hi, I’m @voidvvv
-I'm working at xiecheng now.
+I'm working at XieCheng （CTrip）now.
 
 
 I like programming
 
-I'm the best
+I'm familiar with algrithm and data structure .
 
-algrithm  
+As a Chinese,my English is not bad!
 
-data structure  
+ 
 program language
 
 ```java
